@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnettutorial", "aspnettutorial\aspnettutorial.csproj", "{2F9D29E8-480F-4791-9065-548F67385209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnettutorial.Tests", "aspnettutorial.Tests\aspnettutorial.Tests.csproj", "{28239944-B21B-464D-80A6-D37790A8C04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28239944-B21B-464D-80A6-D37790A8C04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28239944-B21B-464D-80A6-D37790A8C04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28239944-B21B-464D-80A6-D37790A8C04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28239944-B21B-464D-80A6-D37790A8C04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9D29E8-480F-4791-9065-548F67385209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9D29E8-480F-4791-9065-548F67385209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9D29E8-480F-4791-9065-548F67385209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9D29E8-480F-4791-9065-548F67385209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
